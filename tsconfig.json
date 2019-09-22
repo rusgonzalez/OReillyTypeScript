@@ -1,0 +1,12 @@
+{
+    "compilerOptions": {
+      "lib": ["es6", "dom"],
+      "module": "commonjs",
+      "outDir": "build",
+      "sourceMap": true,
+      "strict": true,
+      "strictNullChecks": false,
+      "target": "es6"
+    },
+    "include": ["src"]
+  }
