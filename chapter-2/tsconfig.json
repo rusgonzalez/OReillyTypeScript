@@ -8,5 +8,5 @@
       "strictNullChecks": false,
       "target": "es6"
     },
-    "include": ["chapter-2/src"]
-  }
+    "include": ["src"]
+}
