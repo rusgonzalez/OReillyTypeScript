@@ -7,6 +7,6 @@ let c = {
 let d = c.apple * 4;
 
 //in order to have a difference between TS and JS, variables must be explicitly typed: see var e
-let e:number = a + 'klajshd'; 
+//let e:number = a + 'klajshd'; 
 
-console.log(a, b, c, d, e);
+console.log(a, b, c, d);
